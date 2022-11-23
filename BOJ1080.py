@@ -1,6 +1,5 @@
 #221123 1545~1608
-#Silver 1 Greedy 
-#1080 행렬
+#1080 S1 Greedy
 import sys
 input = sys.stdin.readline
 n,m = map(int,input().split())
