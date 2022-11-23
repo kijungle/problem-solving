@@ -1,5 +1,5 @@
 #221123 1753~1806
-#Silver 2 Brute-force & Recursive
+#Silver 2 Brute-force & BackTracking
 import sys
 input = sys.stdin.readline
 sys.setrecursionlimit(100000)
