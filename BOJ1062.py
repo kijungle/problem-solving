@@ -1,6 +1,5 @@
 #221123 1814~1831
-#1062 G4
-#BruteForce & BackTracking
+#1062 G4 BruteForce & BackTracking
 import sys
 input = sys.stdin.readline
 n, k = map(int, input().split())
